@@ -1,0 +1,21 @@
+{
+  "name": "zean-project-tea",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://twitter.com/zeandrn",
+  "repository": {
+    "url": "https://github.com/zean6178/zean-project-tea.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zean"
+  ],
+  "author": "zean",
+  "license": "ISC",
+  "dependencies": {
+    "text-count": "^1.1.0"
+  }
+}
